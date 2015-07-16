@@ -18,7 +18,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 ---
 
 
-
+##### July 2015 - WP API and OAuth: Using WordPress without WordPress by Bruno Skvorc
+ - http://www.sitepoint.com/wp-api-and-oauth-using-wordpress-without-wordpress/
+ 
 
 ##### June 2015 - Client Side Applications Powered by the WordPress JSON REST API by Roy Sivan
  - http://torquemag.io/client-side-applications-powered-by-the-wordpress-json-rest-api/
