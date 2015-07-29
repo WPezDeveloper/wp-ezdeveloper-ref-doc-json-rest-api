@@ -17,6 +17,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### July 2015 - Working With Post Meta Data Using The WordPress REST API by Josh Pollock
+ - http://torquemag.io/working-with-post-meta-data-using-the-wordpress-rest-api/
+
 
 ##### July 2015 - WP API and OAuth: Using WordPress without WordPress by Bruno Skvorc
  - http://www.sitepoint.com/wp-api-and-oauth-using-wordpress-without-wordpress/
