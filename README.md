@@ -17,6 +17,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### August 2015 - Working With Users Via The WordPress REST API by Josh Pollock (@Josh412)
+ - http://torquemag.io/working-with-users-via-the-wordpress-rest-api/
+
+
 ##### July 2015 - Working With Post Meta Data Using The WordPress REST API by Josh Pollock
  - http://torquemag.io/working-with-post-meta-data-using-the-wordpress-rest-api/
 
