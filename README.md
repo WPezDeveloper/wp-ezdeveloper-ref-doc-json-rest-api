@@ -18,6 +18,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### August 2015 - WP API – Using the #WordPress REST API by Ben Shadle (@benshadle)
+ - http://www.sitepoint.com/wp-api/
+
+
 ##### August 2015 - Working With Users Via The WordPress REST API by Josh Pollock (@Josh412)
  - http://torquemag.io/working-with-users-via-the-wordpress-rest-api/
 
