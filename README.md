@@ -18,6 +18,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### Sept 2015 - Pete Nelson: Extending The WP REST API – Beyond The Basics (Video)
+ - http://wordpress.tv/2015/09/25/pete-nelson-extending-the-wp-rest-api-beyond-the-basics/
+
+
 ##### August 2015 - WP API – Using the #WordPress REST API by Ben Shadle (@benshadle)
  - http://www.sitepoint.com/wp-api/
 
