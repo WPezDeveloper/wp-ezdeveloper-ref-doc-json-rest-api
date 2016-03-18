@@ -18,11 +18,14 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### March 2016 - Recorded Webinar: Technical Deep Dive into AngularJS and the WordPress REST API (feat Josh Pollock and Anthony Burchell)
+ - http://hs.wpengine.com/recorded-webinar-angularjs-and-wp-rest-api
+
 ##### Sept 2015 - Pete Nelson: Extending The WP REST API – Beyond The Basics (Video)
  - http://wordpress.tv/2015/09/25/pete-nelson-extending-the-wp-rest-api-beyond-the-basics/
  
  
-##### Ebook: ‘The Ultimate Guide To The WordPress REST API’ - by Josh Pollock
+##### Ebook: The Ultimate Guide To The WordPress REST API - by Josh Pollock
  - http://torquemag.io/the-ultimate-guide-to-the-wordpress-rest-api-an-ebook-by-josh-pollock/
 
 
